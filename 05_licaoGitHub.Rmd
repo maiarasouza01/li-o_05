@@ -118,9 +118,3 @@ frango_dieta %>%
   scale_fill_viridis_d()
 ```
 #### resposta: o Boxplot expõem que a média dos dados frango, do peso é aproximadamente 100. 
-
-
-
-
-
-
